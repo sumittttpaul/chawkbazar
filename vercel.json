@@ -1,0 +1,10 @@
+{
+  "env": {
+    "NEXT_PUBLIC_REST_API_ENDPOINT": "http://127.0.0.1:5500/"
+  },
+  "build": {
+    "env": {
+      "NEXT_PUBLIC_REST_API_ENDPOINT": "http://127.0.0.1:5500/"
+    }
+  }
+}
